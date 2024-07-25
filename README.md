@@ -1,34 +1,34 @@
 <p align="center">
-    <img src="https://s-cart.org/logo.png?v=4" width="150">
+    <img src="https://thuyan.com.vn/upload/files/logo/logo-new.png" width="150">
 </p>
 <p align="center">Free open source e-commerce for business<br>
     <code><b>composer create-project s-cart/s-cart</b></code></p>
 <p align="center">
- <a href="https://s-cart.org">Home</a> | <a href="https://demo.s-cart.org">Demo</a> | <a href="https://s-cart.org/en/docs/master">Document</a>  |  <a href="https://s-cart.org/en/docs/master/about-api-scart.html">API document</a> | <a href="https://s-cart.org/en/about.html">Features in S-Cart</a> | <a href="https://www.facebook.com/groups/scart.opensource">Group FB</a>
+ <a href="https://thuyan.com.vn/">Home</a> | <a href="https://thuyan.com.vn/">Demo</a> | <a href="https://thuyan.com.vn/">Document</a>  |  <a href="https://thuyan.com.vn/">API document</a> | <a href="https://thuyan.com.vn/">Features in S-Cart</a> | <a href="https://thuyan.com.vn/">Group FB</a>
 </p>
 
 <p align="center">
-<a href="https://packagist.org/packages/s-cart/s-cart"><img src="https://poser.pugx.org/s-cart/s-cart/d/total" alt="Packagist Downloads"></a>
-<a href="https://github.com/s-cart/s-cart"><img src="https://img.shields.io/github/downloads/s-cart/s-cart/total" alt="Git Downloads"></a>
-<a href="https://github.com/s-cart/s-cart/releases"><img src="https://poser.pugx.org/s-cart/s-cart/v/stable" alt="Latest Stable Version"></a>
-<a href="https://github.com/s-cart/s-cart/blob/master/LICENSE"><img src="https://poser.pugx.org/s-cart/s-cart/license" alt="License"></a>
+<a href="https://thuyan.com.vn/"><img src="https://camo.githubusercontent.com/7ed5eaa95cabc206397c003609cc0db80841aeb14ba96b428b1b90da4060f3b3/68747470733a2f2f706f7365722e707567782e6f72672f732d636172742f732d636172742f642f746f74616c" alt="Packagist Downloads"></a>
+<a href="https://thuyan.com.vn/"><img src="https://img.shields.io/github/downloads/s-cart/s-cart/total" alt="Git Downloads"></a>
+<a href="https://thuyan.com.vn/"><img src="https://poser.pugx.org/s-cart/s-cart/v/stable" alt="Latest Stable Version"></a>
+<a href="https://thuyan.com.vn/"><img src="https://poser.pugx.org/s-cart/s-cart/license" alt="License"></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://www.youtube.com/channel/UCR8kitefby3N6KvvawQVqdg"><img src="https://img.shields.io/youtube/channel/subscribers/UCR8kitefby3N6KvvawQVqdg?style=social"></a>
-</p>
+</p> -->
 
 ## About S-cart
-S-Cart is the best free e-commerce website project for individuals and businesses, built on top of Laravel Framework and the latest technologies.
-Our goal is "Efficient and friendly for everyone":
-- Efficiency: Meet even the smallest requirements of customers.
-- Friendly: Easy to use, easy to maintain, easy to develop.
-- Everyone: Businesses, individuals, developers, students.
+
+Một hệ thống nhận diện thương hiệu chuyên nghiệp giúp nâng tầm và gia tăng giá trị hình ảnh thương hiệu cho doanh nghiệp. VISLOGO cung cấp các gói dịch vụ linh hoạt, đáp ứng mọi nhu cầu của doanh nghiệp không phân biệt quy mô, vị trí địa lý và lĩnh vực hoạt động. Chúng tôi có cách tiếp cận dự án phù hợp nhất dù bạn là doanh nghiệp mới khởi nghiệp hay là doanh nghiệp lớn về bề dày hoạt động nhiều năm.
+
+Với kinh nghiệm 8 năm hoạt động VISLOGO khẳng định là đối tác tin cậy về sự chuyên nghiệp và tính sáng tạo trong lĩnh vực thiết kế và quảng bá thương hiệu
 
 ## IMAGES:
-<img src="https://static.s-cart.org/guide/info/s-cart-content.jpg">
+
+<!-- <img src="https://static.s-cart.org/guide/info/s-cart-content.jpg">
 <img src="https://static.s-cart.org/guide/use/common/shop.jpg">
-<img src="https://static.s-cart.org/guide/use/common/dashboard.jpg">
+<img src="https://static.s-cart.org/guide/use/common/dashboard.jpg"> -->
 
 ## S-Cart functions:
 
@@ -61,21 +61,22 @@ Demo API: <a href="https://s-cart.org/en/developer/master/about-api-scart.html">
 </pre>
 
 ## Technology
+
 - Core <a href="https://laravel.com">Laravel Framework</a>
 
 ## Laravel core:
 
 S-Cart 6.x
 
-> Core laravel framework 8.x 
+> Core laravel framework 8.x
 
 S-Cart 7.x
 
-> Core laravel framework 9.x 
+> Core laravel framework 9.x
 
 S-Cart 8.x
 
-> Core laravel framework 10.x 
+> Core laravel framework 10.x
 
 ## Requirements:
 
@@ -101,17 +102,15 @@ S-Cart 8.x
 
 Option 1: **From composer**
 
->composer create-project s-cart/s-cart
-
+> composer create-project s-cart/s-cart
 
 Option 2: **From github**
 
->git clone https://github.com/s-cart/s-cart.git
+> git clone https://github.com/s-cart/s-cart.git
 
 Then, install vendor:
 
->composer install
-
+> composer install
 
 **Step2: Set writable permissions for the following directories:**
 
@@ -121,8 +120,8 @@ Then, install vendor:
 - <code>bootstrap/cache</code>
 - <code>app/Plugins</code>
 
-
 **Step3: Create database**
+
 ```
 - Create a new database. Example database name is "s-cart"
 ```
@@ -130,19 +129,22 @@ Then, install vendor:
 **Step4: Install**
 
 Option 1: **Install automatic**
+
 ```
 Access your-domain.com/install.php to install S-cart.
 ```
-Then, remove or rename file *public/install.php*
+
+Then, remove or rename file _public/install.php_
 
 Option 2: **Manual installation**
 
 If installing with link "install.php" unsuccessful, you can install it manually below.
+
 ```
 1: Create new database, then import file /vendor/s-cart/core/src/DB/s-cart-yyyy-mm-dd.sql to database.
 2: Rename or delete file public/install.php
 3: Copy file .env.example to .env if file .env not exist.
-4: Generate API key if APP_KEY is null. 
+4: Generate API key if APP_KEY is null.
 - Use command "php artisan key:generate"
 5: Generates the encryption keys
   Use command "php artisan passport:keys"
@@ -169,11 +171,11 @@ More detail for installation: <a href="https://s-cart.org/en/docs/master/install
 
 To view S-Cart version information
 
->`php artisan sc:info`
+> `php artisan sc:info`
 
 To update the core version of S-Cart:
 
->`composer update s-cart/core`
+> `composer update s-cart/core`
 
 Or you can use `php composer.phar update s-cart/core` if you don't have composer installed.
 
@@ -181,11 +183,11 @@ Then, run `php artisan sc:update`
 
 To create a plugin:
 
->`php artisan sc:make plugin  --name=Group\PluginName`
+> `php artisan sc:make plugin  --name=Group\PluginName`
 
 To create a zip file plugin:
 
->`php artisan sc:make plugin  --name=Group\PluginName --download=1`
+> `php artisan sc:make plugin  --name=Group\PluginName --download=1`
 
 Detail: <a href="https://s-cart.org/en/docs/master/how-to-install-module-extension.html">HERE</a>
 
@@ -193,30 +195,30 @@ Library of free plugins for S-Cart: <a href="https://s-cart.org/en/plugin.html">
 
 To create a template:
 
->`php artisan sc:make template  --name=your-template-name`
+> `php artisan sc:make template  --name=your-template-name`
 
 To create a zip file template:
 
->`php artisan sc:make template  --name=your-template-name --download=1`
+> `php artisan sc:make template  --name=your-template-name --download=1`
 
 To create data backup file (The sql file is stored in storage/backups):
 
->`php artisan sc:backup --path=abc.sql`
+> `php artisan sc:backup --path=abc.sql`
 
 To recover data:
 
->`php artisan sc:restore --path=abc.sql`
+> `php artisan sc:restore --path=abc.sql`
 
 To manually customize the admin page (<code>resources/views/admin + config/admin.php</code>):
 
->`php artisan sc:customize admin`
+> `php artisan sc:customize admin`
 
 This command will create new directories `resources/views/admin` and file `config/admin.php`
-After set the value `customize=true` in `config/admin.php` you can modify template admin. 
+After set the value `customize=true` in `config/admin.php` you can modify template admin.
 
 To manually customize file config validation (<code>config/validation.php</code>):
 
->`php artisan sc:customize validation`
+> `php artisan sc:customize validation`
 
 More detail: https://s-cart.org/en/docs/master
 
@@ -235,10 +237,11 @@ If you discover a security vulnerability within S-Cart ecommerce, please send an
 ## Demo:
 
 - Font-end : http://demo.s-cart.org
-- Back-end: http://demo.s-cart.org/sc_admin   <code>User/pass: test/123456</code>
+- Back-end: http://demo.s-cart.org/sc_admin <code>User/pass: test/123456</code>
 
 ## Plugins pro:
 
 - Multi vendor : https://s-cart.org/en/multi-vendor.html
 - Multi store : https://s-cart.org/en/multi-store.html
+
 # vanlong
